@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Bowlby";
+    src: url("./font/BowlbyOneSC-Regular.ttf");
+}
+
+h1,
+h2,
+h3, .fontTitle {
+    font-family: "Bowlby";
+}
+
+.colorPurpleLight {
+    background-color: #844e80 !important;
+}
